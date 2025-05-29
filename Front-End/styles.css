@@ -2,27 +2,36 @@ body {
     background-color: white;
 }
 
+.container {
+    display: flex;
+}
+
 .parent1 { 
     background-color: aqua;
-    height: 50px;
+    height: 1007px;
+    width: 220px;
 }
 
 .parent2 {
     background-color:blue;
-    height: 50px;
+    height: 1007px;
+    width: 316px;
 }
 
 .parent3 {
     background-color: blueviolet;
-    height: 50px;
+    height: 1007px;
+    width: 630px;
 }
 
 .parent4 { 
     background-color: coral;
-    height: 50px;
+    height: 1007px;
+    width: 319px;
 }
 
 .parent5 {
     background-color:lemonchiffon;
-    height: 50px;
+    height: 1007px;
+    width: 392px;
 }
