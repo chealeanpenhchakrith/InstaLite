@@ -2,6 +2,27 @@ body {
     background-color: white;
 }
 
-h1 { 
-    color: black;
+.parent1 { 
+    background-color: aqua;
+    height: 50px;
+}
+
+.parent2 {
+    background-color:blue;
+    height: 50px;
+}
+
+.parent3 {
+    background-color: blueviolet;
+    height: 50px;
+}
+
+.parent4 { 
+    background-color: coral;
+    height: 50px;
+}
+
+.parent5 {
+    background-color:lemonchiffon;
+    height: 50px;
 }
