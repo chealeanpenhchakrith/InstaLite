@@ -11,10 +11,13 @@ body {
     width: 220px;
     display: flex;
     flex-direction: column;
+    border-right: solid;
+    border-right-color: rgb(219, 219, 219, 1);
+    border-right-width: 1px;
 }
 
 .parent2 {
-    background-color:blue;
+    background-color:white;
     height: 1007px;
     width: 316px;
 }
