@@ -7,13 +7,14 @@ body {
 }
 
 .parent1 { 
-    height: 1007px;
+    height: 100vh;
     width: 220px;
     display: flex;
     flex-direction: column;
     border-right: solid;
     border-right-color: rgb(219, 219, 219, 1);
     border-right-width: 1px;
+    position: fixed;
 }
 
 .parent2 {
@@ -305,9 +306,6 @@ p {
     display: flex;
     flex-direction: column;
     align-items: flex-start;
+    margin-top: auto;
+    margin-bottom: 26px;
 }
-
-.child2-10 {
-    height: 715px
-}
-
