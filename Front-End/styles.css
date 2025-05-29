@@ -23,25 +23,25 @@ body {
 }
 
 .parent3 {
-    background-color: blueviolet;
+    background-color: white;
     height: 1007px;
     width: 630px;
 }
 
 .parent4 { 
-    background-color: coral;
+    background-color: white;
     height: 1007px;
     width: 319px;
 }
 
 .parent5 {
-    background-color:lemonchiffon;
+    background-color:white;
     height: 1007px;
     width: 392px;
 }
 
 .child1 {
-    padding: 25px 12px 16px;
+    padding: 25px 12px 30px;
 }
 
 .child2 {
@@ -56,6 +56,7 @@ body {
 
 .child3 {
     display: flex;
+    margin-top: 4px;
 }
 
 .search {
@@ -66,6 +67,8 @@ body {
 
 .child4 {
     display: flex;
+    margin-top: 4px;
+
 }
 
 .explore {
@@ -76,6 +79,8 @@ body {
 
 .child5 {
     display: flex;
+    margin-top: 4px;
+
 }
 
 .reels {
@@ -86,6 +91,8 @@ body {
 
 .child6 {
     display: flex;
+    margin-top: 4px;
+
 }
 
 .messages {
@@ -96,6 +103,8 @@ body {
 
 .child7 {
     display: flex;
+    margin-top: 4px;
+
 }
 
 .notifications {
@@ -106,6 +115,8 @@ body {
 
 .child8 {
     display: flex;
+    margin-top: 4px;
+
 }
 
 .create {
@@ -116,6 +127,8 @@ body {
 
 .child9 {
     display: flex;
+    margin-top: 4px;
+
 }
 
 .dashboard {
@@ -126,6 +139,8 @@ body {
 
 .child10 {
     display: flex;
+    margin-top: 4px;
+
 }
 
 .profile {
@@ -140,6 +155,7 @@ body {
 
 .child11 {
     display: flex;
+
 }
 
 .metaAi {
@@ -150,6 +166,8 @@ body {
 
 .child12 {
     display: flex;
+    margin-top: 4px;
+
 }
 
 .threads {
@@ -160,6 +178,8 @@ body {
 
 .child13 {
     display: flex;
+    margin-top: 5px;
+
 }
 
 .more {
@@ -169,115 +189,116 @@ body {
 }
 
 .child2 p {
-    margin-left: 20px;
+    margin-left: 17px;
     line-height: 20px;
 }
 
 .home {
-    margin-left: 16px;
+    margin-left: 17px;
 }
 
 .child3 p {
-    margin-left: 20px;
+    margin-left: 17px;
     line-height: 20px;
 }
 
 .search {
-    margin-left: 16px;
+    margin-left: 17px;
 }
 
 .child4 p {
-    margin-left: 20px;
+    margin-left: 17px;
     line-height: 20px;
 }
 
 .explore {
-    margin-left: 16px;
+    margin-left: 17px;
 }
 
 .child5 p {
-    margin-left: 20px;
+    margin-left: 17px;
     line-height: 20px;
 }
 
 .reels {
-    margin-left: 16px;
+    margin-left: 17px;
 }
 
 .child6 p {
-    margin-left: 20px;
+    margin-left: 17px;
     line-height: 20px;
 }
 
 .messages {
-    margin-left: 16px;
+    margin-left: 17px;
 }
 
 .child7 p {
-    margin-left: 20px;
+    margin-left: 17px;
     line-height: 20px;
 }
 
 .notifications {
-    margin-left: 16px;
+    margin-left: 17px;
 }
 
 .child8 p {
-    margin-left: 20px;
+    margin-left: 17px;
     line-height: 20px;
 }
 
 .create {
-    margin-left: 16px;
+    margin-left: 17px;
 }
 
 .child9 p {
-    margin-left: 20px;
+    margin-left: 17px;
     line-height: 20px;
 }
 
 .dashboard {
-    margin-left: 16px;
+    margin-left: 17px;
 }
 
 .child10 p {
-    margin-left: 20px;
+    margin-left: 17px;
     line-height: 20px;
 }
 
 .profile {
-    margin-left: 16px;
+    margin-left: 17px;
 }
 
 .child11 p {
-    margin-left: 20px;
+    margin-left: 17px;
     line-height: 20px;
 }
 
 .metaAi {
-    margin-left: 16px;
+    margin-left: 17px;
 }
 
 .child12 p {
-    margin-left: 20px;
+    margin-left: 17px;
     line-height: 20px;
 }
 
 .threads {
-    margin-left: 16px;
+    margin-left: 17px;
 }
 
 .child13 p {
-    margin-left: 20px;
+    margin-left: 17px;
     line-height: 20px;
 }
 
 .more {
-    margin-left: 16px;
+    margin-left: 17px;
 }
 
 p {
     font-family: Open Sans;
+    line-height: 20px;
 }
 
 .child11-13 {
@@ -287,5 +308,6 @@ p {
 }
 
 .child2-10 {
-    height: 747px
+    height: 715px
 }
+
