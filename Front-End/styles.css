@@ -7,9 +7,10 @@ body {
 }
 
 .parent1 { 
-    background-color: brown;
     height: 1007px;
     width: 220px;
+    display: flex;
+    flex-direction: column;
 }
 
 .parent2 {
@@ -34,6 +35,10 @@ body {
     background-color:lemonchiffon;
     height: 1007px;
     width: 392px;
+}
+
+.child1 {
+    padding: 25px 12px 16px;
 }
 
 .child2 {
@@ -158,4 +163,112 @@ body {
     display: flex;
     flex-direction: column;
     justify-content: center;
+}
+
+.child2 h3 {
+    margin-left: 20px;
+    line-height: 20px;
+}
+
+.home {
+    margin-left: 16px;
+}
+
+.child3 h3 {
+    margin-left: 20px;
+    line-height: 20px;
+}
+
+.search {
+    margin-left: 16px;
+}
+
+.child4 h3 {
+    margin-left: 20px;
+    line-height: 20px;
+}
+
+.explore {
+    margin-left: 16px;
+}
+
+.child5 h3 {
+    margin-left: 20px;
+    line-height: 20px;
+}
+
+.reels {
+    margin-left: 16px;
+}
+
+.child6 h3 {
+    margin-left: 20px;
+    line-height: 20px;
+}
+
+.messages {
+    margin-left: 16px;
+}
+
+.child7 h3 {
+    margin-left: 20px;
+    line-height: 20px;
+}
+
+.notifications {
+    margin-left: 16px;
+}
+
+.child8 h3 {
+    margin-left: 20px;
+    line-height: 20px;
+}
+
+.create {
+    margin-left: 16px;
+}
+
+.child9 h3 {
+    margin-left: 20px;
+    line-height: 20px;
+}
+
+.dashboard {
+    margin-left: 16px;
+}
+
+.child10 h3 {
+    margin-left: 20px;
+    line-height: 20px;
+}
+
+.profile {
+    margin-left: 16px;
+}
+
+.child11 h3 {
+    margin-left: 20px;
+    line-height: 20px;
+}
+
+.metaAi {
+    margin-left: 16px;
+}
+
+.child12 h3 {
+    margin-left: 20px;
+    line-height: 20px;
+}
+
+.threads {
+    margin-left: 16px;
+}
+
+.child13 h3 {
+    margin-left: 20px;
+    line-height: 20px;
+}
+
+.more {
+    margin-left: 16px;
 }
