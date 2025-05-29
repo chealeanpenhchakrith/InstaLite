@@ -7,7 +7,7 @@ body {
 }
 
 .parent1 { 
-    background-color: aqua;
+    background-color: brown;
     height: 1007px;
     width: 220px;
 }
@@ -34,4 +34,128 @@ body {
     background-color:lemonchiffon;
     height: 1007px;
     width: 392px;
+}
+
+.child2 {
+    display: flex;
+}
+
+.home {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.child3 {
+    display: flex;
+}
+
+.search {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.child4 {
+    display: flex;
+}
+
+.explore {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.child5 {
+    display: flex;
+}
+
+.reels {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.child6 {
+    display: flex;
+}
+
+.messages {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.child7 {
+    display: flex;
+}
+
+.notifications {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.child8 {
+    display: flex;
+}
+
+.create {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.child9 {
+    display: flex;
+}
+
+.dashboard {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.child10 {
+    display: flex;
+}
+
+.profile {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.child10 img {
+    border-radius: 50px;
+}
+
+.child11 {
+    display: flex;
+}
+
+.metaAi {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.child12 {
+    display: flex;
+}
+
+.threads {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.child13 {
+    display: flex;
+}
+
+.more {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
 }
