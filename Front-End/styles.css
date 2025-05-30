@@ -4,6 +4,7 @@ body {
 
 .container {
     display: flex;
+    flex-direction: row;
 }
 
 .parent1 { 
@@ -14,32 +15,36 @@ body {
     border-right: solid;
     border-right-color: rgb(219, 219, 219, 1);
     border-right-width: 1px;
-    position: fixed;
+    position: relative;
+    /* background-color: blueviolet; */
 }
 
 .parent2 {
-    background-color:white;
-    height: 1007px;
-    width: 316px;
+    /* background-color:rgb(24, 54, 205); */
+    height: 100vh;
+    width: 220px;
+    
 }
 
 .parent3 {
-    background-color: white;
-    height: 1007px;
+    background-color: rgb(250, 255, 100);
+    height: 100vh;
     width: 630px;
+    display: flex;
+    flex-direction: column;
 }
 
-.parent4 { 
+/* .parent4 { 
     background-color: white;
     height: 1007px;
     width: 319px;
-}
+} */
 
-.parent5 {
+/* .parent5 {
     background-color:white;
     height: 1007px;
     width: 392px;
-}
+} */
 
 .child1 {
     padding: 25px 12px 30px;
@@ -308,4 +313,19 @@ p {
     align-items: flex-start;
     margin-top: auto;
     margin-bottom: 26px;
+}
+
+.top-nav-bar {
+    display: flex;
+    border-bottom: solid;
+    border-bottom-color: rgb(219, 219, 219, 1);
+    border-width: 1px
+}
+
+.following {
+    margin-left: 13px;
+}
+
+.following p {
+    color: gray;
 }
