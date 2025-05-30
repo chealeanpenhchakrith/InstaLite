@@ -27,7 +27,6 @@ body {
 }
 
 .parent3 {
-    background-color: rgb(250, 255, 100);
     height: 100vh;
     width: 630px;
     display: flex;
@@ -333,13 +332,15 @@ p {
 .story-bar {
     display: flex;
     flex-direction: row;
-    justify-content: space-evenly;
+    justify-content: space-between;
     margin-top: 20px;
 }
 
 .story-item {
     display: flex;
     flex-direction: column;
+    align-items: center;
+
 }
 
 .story-account {
@@ -347,4 +348,14 @@ p {
     height: 50px;
     border-radius: 50%;
     background-color: black;
+}
+
+.username {
+    display: flex;
+    justify-content: center;
+}
+
+.username p {
+    font-size: 12px;
+    line-height: 20px;
 }
