@@ -435,3 +435,17 @@ p {
 .post-picture img {
     border-radius: 0.5%;
 }
+
+.number-of-like {
+    display: flex;
+}
+
+.like {
+    margin-left: 5px;
+}
+
+.like, .number {
+    line-height: 18px;
+    margin-top: -12px;
+    font-size: 85%;
+}
