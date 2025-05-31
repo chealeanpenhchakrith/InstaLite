@@ -431,3 +431,7 @@ p {
 .archive {
     margin-left: auto;
 }
+
+.post-picture img {
+    border-radius: 0.5%;
+}
