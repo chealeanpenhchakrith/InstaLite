@@ -463,3 +463,17 @@ p {
 .caption-text {
     margin-left: 10px;
 }
+
+.comment-section {
+    display: flex;
+}
+.comment {
+    line-height: 18px;
+    font-size: 85%;
+    margin-top: -25px;
+}
+
+.emoji-interaction {
+    margin-left: auto;
+    margin-top: -15px;
+}
