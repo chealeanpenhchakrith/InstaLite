@@ -473,6 +473,10 @@ p {
     margin-top: -25px;
 }
 
+.comment p {
+    color: gray;
+}
+
 .emoji-interaction {
     margin-left: auto;
     margin-top: -15px;
