@@ -449,3 +449,17 @@ p {
     margin-top: -12px;
     font-size: 85%;
 }
+
+.caption-section {
+    display: flex;
+    margin-top: -25px;
+}
+
+.name, .caption-text {
+    line-height: 18px;
+    font-size: 85%;
+}
+
+.caption-text {
+    margin-left: 10px;
+}
