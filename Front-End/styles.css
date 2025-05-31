@@ -418,3 +418,16 @@ p {
 .three-dots {
     margin-left: auto;
 }
+
+.interact-section {
+    display: flex;
+    margin-top: 10px;
+}
+
+.message, .send {
+    margin-left: 15px
+}
+
+.archive {
+    margin-left: auto;
+}
