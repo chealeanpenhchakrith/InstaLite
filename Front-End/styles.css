@@ -370,7 +370,7 @@ p {
 }
 
 .post {
-    background-color: aqua;
+    background-color: white;
     height: 100vh;
 }
 
@@ -381,8 +381,8 @@ p {
 }
 
 .profile-icon {
-    width: 25px;
-    height: 25px;
+    width: 30px;
+    height: 30px;
     background: #833AB4;
     background: linear-gradient(90deg, rgba(131, 58, 180, 1) 0%, rgba(253, 29, 29, 1) 50%, rgba(252, 176, 69, 1) 100%);
     border-radius: 50%;
