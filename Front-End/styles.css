@@ -466,6 +466,10 @@ p {
 
 .comment-section {
     display: flex;
+    border-bottom: solid;
+    border-color: gray;
+    border-width: 1px;
+    padding-bottom: 20px;
 }
 .comment {
     line-height: 18px;
