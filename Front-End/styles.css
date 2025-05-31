@@ -372,6 +372,7 @@ p {
 .post {
     background-color: white;
     height: 100vh;
+    padding: 0 77px;
 }
 
 .post-title {
