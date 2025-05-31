@@ -391,3 +391,29 @@ p {
     justify-content: center;
 }
 
+.dot, .minute {
+    color: gray;
+}
+
+.profile-icon {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.profile-icon img {
+    border-radius: 50%;
+}
+
+.username-post, .verified-badge, .dot, .minute {
+    margin-left: 5px;
+}
+
+.dot {
+    display: flex;
+    padding-bottom: 7px;
+}
+
+.three-dots {
+    margin-left: auto;
+}
