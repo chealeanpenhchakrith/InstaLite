@@ -491,3 +491,68 @@ p {
     flex-direction: column;
 
 }
+
+.account-section {
+    margin-left:64px;
+}
+
+.parent4 {
+    display: flex;
+    flex: column;
+}
+
+.account-section {
+    display: flex;
+    flex-direction: row;
+    margin-top: 25px;
+
+}
+
+.user-acc {
+    display: flex;
+    flex-direction:  column;
+}
+
+.switch {
+    color: aqua;
+    margin-left: 119px;
+    padding-top: 10px;
+}
+
+.switch p {
+    line-height: 18px;
+    font-size: 80%;
+    color: #0095f6;
+}
+
+.user-section {
+    display: flex;
+    flex-direction: column;
+    margin-left: 14px;
+}
+
+.user-name {
+    margin-top: -30px;
+}
+
+.user-name p {
+    color: gray;
+}
+
+.account-picture {
+    display: flex;
+    padding-top: 10px;
+}
+
+.account-picture img {
+    border-radius: 50%;
+}
+
+.parent4 {
+    width: 400px;
+}
+
+.user-acc p, .user-name p{
+    line-height: 18px;
+    font-size: 95%;
+}
