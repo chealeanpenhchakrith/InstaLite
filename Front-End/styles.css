@@ -493,15 +493,6 @@ p {
 }
 
 .account-section {
-    margin-left:64px;
-}
-
-.parent4 {
-    display: flex;
-    flex: column;
-}
-
-.account-section {
     display: flex;
     flex-direction: row;
     margin-top: 25px;
@@ -550,9 +541,32 @@ p {
 
 .parent4 {
     width: 400px;
+    display: flex;
+    flex-direction: column;
+    margin-left: 64px;
+
 }
 
 .user-acc p, .user-name p{
     line-height: 18px;
     font-size: 95%;
+}
+
+.info-section {
+    display: flex;
+    flex-direction: row;
+}
+
+.See-all {
+    margin-left: 132px;
+    line-break: 18px;
+    font-size: 85%;
+    font-weight: 600;
+}
+
+.suggested-for-you {
+    color: gray;
+    line-height: 18px;
+    font-size: 85%;
+    font-weight: 600;
 }
