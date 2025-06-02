@@ -505,7 +505,6 @@ p {
 }
 
 .switch {
-    color: aqua;
     margin-left: 119px;
     padding-top: 10px;
 }
@@ -569,4 +568,23 @@ p {
     line-height: 18px;
     font-size: 85%;
     font-weight: 600;
+}
+
+.account-section-v2 {
+    display: flex;
+    flex-direction: row;
+    margin-top: -10px;
+}
+
+.follow {
+    color: #0095f6;
+    margin-left: 110px;
+    line-height: 18px;
+    font-size: 80%;
+    margin-top: 10px;
+    font-weight: bold;
+}
+
+.third-section {
+    margin-top: -40px;
 }
