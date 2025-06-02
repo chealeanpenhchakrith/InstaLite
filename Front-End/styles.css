@@ -371,7 +371,7 @@ p {
 
 .post {
     background-color: white;
-    height: 100vh;
+    height: 80vh;
     padding: 0 77px;
 }
 
@@ -484,4 +484,10 @@ p {
 .emoji-interaction {
     margin-left: auto;
     margin-top: -15px;
+}
+
+.post-zone {
+    display: flex;
+    flex-direction: column;
+
 }
