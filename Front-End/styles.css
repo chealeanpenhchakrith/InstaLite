@@ -588,3 +588,36 @@ p {
 .third-section {
     margin-top: -40px;
 }
+
+.help {
+    color: gray;
+    line-height: 16px;
+    font-weight: 400;
+    font-size: 80%;
+}
+
+.first-help {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    margin-right: 95px;
+    margin-left: -13px;
+}
+
+.second-help {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    margin-right: 95px;
+    margin-left: -25px;
+    margin-top: -27px
+}
+
+.contact {
+    margin-top: -27px;
+    margin-left: -8px;
+}
+
+.ads {
+    margin-left: -9px;
+}
