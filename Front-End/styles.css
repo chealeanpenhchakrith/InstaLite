@@ -15,14 +15,14 @@ body {
     border-right: solid;
     border-right-color: rgb(219, 219, 219, 1);
     border-right-width: 1px;
-    position: relative;
-    /* background-color: blueviolet; */
+    position: fixed;
+
 }
 
 .parent2 {
-    /* background-color:rgb(24, 54, 205); */
     height: 100vh;
     width: 220px;
+    margin-left: 300px;
     
 }
 
@@ -32,18 +32,6 @@ body {
     display: flex;
     flex-direction: column;
 }
-
-/* .parent4 { 
-    background-color: white;
-    height: 1007px;
-    width: 319px;
-} */
-
-/* .parent5 {
-    background-color:white;
-    height: 1007px;
-    width: 392px;
-} */
 
 .child1 {
     padding: 25px 12px 30px;
@@ -342,8 +330,8 @@ p {
 }
 
 .story-account {
-    width: 50px;
-    height: 50px;
+    width: 48px;
+    height: 48px;
     border-radius: 50%;
     background: #833AB4;
     background: linear-gradient(90deg, rgba(131, 58, 180, 1) 0%, rgba(253, 29, 29, 1) 50%, rgba(252, 176, 69, 1) 100%);
@@ -355,8 +343,8 @@ p {
 
 .story-account img {
     border-radius: 50%;
-    width: 45px;
-    height: 45px;
+    width: 44px;
+    height: 44px;
 }
 
 .username {
@@ -505,7 +493,7 @@ p {
 }
 
 .switch {
-    margin-left: 119px;
+    margin-left: 125px;
     padding-top: 10px;
 }
 
@@ -548,7 +536,8 @@ p {
 
 .user-acc p, .user-name p{
     line-height: 18px;
-    font-size: 95%;
+    font-size: 85%;
+    padding-top: 2px;
 }
 
 .info-section {
@@ -557,7 +546,7 @@ p {
 }
 
 .See-all {
-    margin-left: 132px;
+    margin-left: 129px;
     line-break: 18px;
     font-size: 85%;
     font-weight: 600;
@@ -576,9 +565,45 @@ p {
     margin-top: -10px;
 }
 
-.follow {
+.follow-1{
     color: #0095f6;
-    margin-left: 110px;
+    margin-left: 49px;
+    line-height: 18px;
+    font-size: 80%;
+    margin-top: 10px;
+    font-weight: bold;
+}
+
+.follow-2{
+    color: #0095f6;
+    margin-left: 76px;
+    line-height: 18px;
+    font-size: 80%;
+    margin-top: 10px;
+    font-weight: bold;
+}
+
+.follow-3{
+    color: #0095f6;
+    margin-left: 9px;
+    line-height: 18px;
+    font-size: 80%;
+    margin-top: 10px;
+    font-weight: bold;
+}
+
+.follow-4{
+    color: #0095f6;
+    margin-left: 45px;
+    line-height: 18px;
+    font-size: 80%;
+    margin-top: 10px;
+    font-weight: bold;
+}
+
+.follow-5{
+    color: #0095f6;
+    margin-left: 71px;
     line-height: 18px;
     font-size: 80%;
     margin-top: 10px;
@@ -634,3 +659,12 @@ p {
     padding-bottom: 6px;
 }
 
+.row {
+    display: flex;
+    align-items: center;
+}
+
+.verified-badge-v2 {
+    padding-top: 5px;
+    padding-left: 5px;
+}
