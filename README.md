@@ -1,7 +1,6 @@
 # 📸 InstaLite
 
 A pixel-perfect **clone of Instagram’s homepage** built entirely with **HTML5** and **CSS3** — no frameworks, no JavaScript.  
-This project replicates the look and feel of the Instagram web UI as a front-end design exercise.
 
 ---
 
