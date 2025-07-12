@@ -7,7 +7,7 @@ This project replicates the look and feel of the Instagram web UI as a front-end
 
 ## 🖼 Preview
 
-![Instagram Clone Screenshot](./Instagram.jpeg)
+![Instagram Clone Screenshot](./InstaLite.png)
 
 ---
 
