@@ -1,14 +1,30 @@
-# InstaLite
+# 📸 InstaLite
 
-This project is a static replica of the Instagram home page for desktop (PC) users, built using **only HTML and CSS**.
+A pixel-perfect **clone of Instagram’s homepage** built entirely with **HTML5** and **CSS3** — no frameworks, no JavaScript.  
+This project replicates the look and feel of the Instagram web UI as a front-end design exercise.
 
-## 🚀 Overview
+---
 
-The aim of this project is to practice front-end layout skills by reproducing Instagram's interface without using any JavaScript or external frameworks.
+## 🖼 Preview
 
-## 🛠️ Technologies Used
+![Instagram Clone Screenshot](.)
 
-- **HTML5**
-- **CSS3**
+---
 
-No JavaScript, libraries, or frameworks were used in this project.
+## ✨ Features
+
+- Static clone of Instagram's homepage
+- Modern, responsive layout using Flexbox and media queries
+- Clean UI with reusable CSS styling
+- Fully built with semantic HTML and pure CSS
+
+---
+
+## 🚀 Getting Started
+
+To run this project locally:
+
+```bash
+git clone https://github.com/yourusername/instalite.git
+cd instalite
+open index.html
