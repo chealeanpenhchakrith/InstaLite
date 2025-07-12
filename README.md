@@ -24,6 +24,6 @@ A pixel-perfect **clone of Instagram’s homepage** built entirely with **HTML5*
 To run this project locally:
 
 ```bash
-git clone https://github.com/leanpenhchakrithchea/instalite.git
+git clone https://github.com/chealeanpenhchakrith/instalite.git
 cd instalite
 open index.html
