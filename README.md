@@ -1,10 +1,10 @@
-# Instagram Home Page Clone
+# InstaLite
 
 This project is a static replica of the Instagram home page for desktop (PC) users, built using **only HTML and CSS**.
 
 ## 🚀 Overview
 
-The aim of this project is to practice front-end layout skills by reproducing Instagram's interface without using any JavaScript or external frameworks. It demonstrates how far you can go with just semantic HTML and well-structured CSS.
+The aim of this project is to practice front-end layout skills by reproducing Instagram's interface without using any JavaScript or external frameworks.
 
 ## 🛠️ Technologies Used
 
